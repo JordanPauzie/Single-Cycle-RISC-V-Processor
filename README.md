@@ -1,2 +1,2 @@
 # Single-Cycle-RISC-V-Processor
-Single-cycle RISC-V processor written in SystemVerilog and verified through EDA Playground.
+A simple single-cycle RISC-V processor written in SystemVerilog with the help of Vivado and its IP catalog. The CPU wrapper contained in cpu.sv describes the datapaths required to connect the various modules into a functioning processor.
